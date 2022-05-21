@@ -15,7 +15,7 @@ var getRepoName = function() {
       }
   }
 
-getRepoName();
+
 
 
 var displayWarning = function(repo) {
@@ -87,3 +87,5 @@ var displayWarning = function(repo) {
         }
       });
     };
+    
+getRepoName();
